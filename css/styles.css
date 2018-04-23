@@ -9,8 +9,15 @@ h1{
 }
 
 .projects{
-  width:50%;
+  width:30%;
   display:inline-block;
   margin:20px;
   font-family:sans-serif;
+}
+.interests ol{
+  width:40%;
+  display:inline-block;
+  margin:20px;
+  font-family:sans-serif;
+  }
 }
