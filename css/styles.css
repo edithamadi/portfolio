@@ -8,13 +8,9 @@ h1{
   float: left;
 }
 
-.projects {
-  width: 50%;
-  display: inline-block;
-  margin: 20px;
-  font-family: sans-serif;
-}
-
-.projects ul {
-    text-decoration: none;
+.projects{
+  width:50%;
+  display:inline-block;
+  margin:20px;
+  font-family:sans-serif;
 }
