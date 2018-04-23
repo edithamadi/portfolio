@@ -20,5 +20,10 @@ h1{
   margin:20px;
   font-family:sans-serif;
   float:right;
-  }
 }
+.aboutme{
+  width:40%;
+  display:inline-block;
+  margin:20px;
+}
+  
