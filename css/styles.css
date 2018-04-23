@@ -14,10 +14,11 @@ h1{
   margin:20px;
   font-family:sans-serif;
 }
-.interests ol{
-  width:40%;
+.interests {
+  width:30%;
   display:inline-block;
   margin:20px;
   font-family:sans-serif;
+  float:right;
   }
 }
