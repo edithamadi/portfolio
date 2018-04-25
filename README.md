@@ -12,7 +12,9 @@ This project is my online portfolio to sell myself to potential clients to lure 
 - `atom .`
 - `code .` (if using visual studio code is your preffered text editor)
 
+## link to live site on gh-pages
 
+https://edithamadi.github.io/portfolio/
 ## Copyright and License
 
 MIT License
