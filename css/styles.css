@@ -1,22 +1,55 @@
 .footer {
-  position: fixed;
+  /* position: fixed; */
   left: 0;
   bottom: 0;
   width: 100%;
-  background-color: black;
-  color: white;
+  background-color: whitesmoke;
+  color: black;
   text-align: center;
 }
 
-
-.col-md-3 {
-  background-color: rgba(184, 17, 17, 0.87);
+.col-md-8 {
+  font-size: 30px;
+  font-style: oblique; 
+  color: white;
 }
 
 #homepage{
-  background-image: url('../image/laptop.jpeg');
+  background-image: url('../image/laptop2.jpeg');
   background-size: cover;
   background-repeat: no-repeat;
   width: 100%;
   height: 650px;
 }
+
+hr {
+  height: 0px;
+  border: none;
+  border-top: 1px solid black;
+}
+
+#about{
+  font-size: 50px;
+  font-style: oblique;
+}
+
+.container-fluid{
+  font-size: 30px;
+}
+
+.jumbotron{
+  background-color: #030303;
+}
+
+#story{
+  font-size: 30px;
+  font-style: oblique;
+}
+
+/* .story{
+background-image:url();
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 650px;
+} */
