@@ -46,6 +46,10 @@ hr {
   font-style: oblique;
 }
 
+p{
+  color: whitesmoke;
+}
+
 /* .story{
 background-image:url();
   background-size: cover;
