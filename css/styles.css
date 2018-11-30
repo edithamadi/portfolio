@@ -35,10 +35,12 @@ hr {
 
 .container-fluid{
   font-size: 30px;
+  /* height: 700px; */
 }
 
 .jumbotron{
   background-color: #030303;
+  height: 1150px;
 }
 
 #story{
@@ -48,5 +50,10 @@ hr {
 
 p{
   color: whitesmoke;
+}
+
+.jumbotrons{
+  background-color: #030303;
+  height: 1200px;
 }
 
