@@ -1,4 +1,4 @@
-.footer {
+#contact {
   /* position: fixed; */
   left: 0;
   bottom: 0;
@@ -50,10 +50,11 @@ hr {
 
 p{
   color: whitesmoke;
+  font-size: 30px;
+  font-style: oblique;
 }
 
 .jumbotrons{
   background-color: #030303;
   height: 1200px;
 }
-
