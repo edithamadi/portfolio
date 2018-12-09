@@ -1,11 +1,11 @@
 #contact {
   /* position: fixed; */
-  left: 0;
+  /* left: 0;
   bottom: 0;
   width: 100%;
   background-color: whitesmoke;
   color: black;
-  text-align: center;
+  text-align: center; */
 }
 
 .col-md-8 {
@@ -38,10 +38,7 @@ hr {
   /* height: 700px; */
 }
 
-.jumbotron{
-  background-color: #030303;
-  height: 1150px;
-}
+
 
 #story{
   font-size: 30px;
@@ -54,7 +51,11 @@ p{
   font-style: oblique;
 }
 
-.jumbotrons{
+/* .jumbotrons{
   background-color: #030303;
   height: 1200px;
+} */
+
+#projects{
+  background-color: #030303;
 }
